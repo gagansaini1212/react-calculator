@@ -2,7 +2,7 @@
 
 This is a simple arithmetic calculator built with REACT.JS library.
 
-Live version deployed at [heroku](https://calculator-n.herokuapp.com/)
+Live version deployed at [netlify](https://react-calculator.netlify.com)
 
 To run it on your local machine clone into the repo, then type:
 
@@ -15,7 +15,3 @@ yarn install
 ```
 yarn start
 ```
-
-A sneak peek:
-
-![alt react-calculator-simple](Screenshot.png)
