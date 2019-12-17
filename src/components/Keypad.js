@@ -3,12 +3,14 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   display: block;
-  background-color: #bbb;
+  background-color: #000000;
 
   button {
     width: 25%;
     height: 60px;
     font-size: 30px;
+    color: greenyellow;
+    background-color: #8c8cd0;
   }
 `;
 
